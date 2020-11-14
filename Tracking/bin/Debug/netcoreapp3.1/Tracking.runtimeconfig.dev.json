@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gooin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gooin\\.nuget\\packages"
+    ]
+  }
+}
