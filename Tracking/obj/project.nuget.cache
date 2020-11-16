@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m56krDPFSBhMN66q/rptUTudpJip0Z7Ty1oDY0fqAIlmmHwq8O0H/2bqgZz5/+bAFkgzzdNncpWbRaSl3Aa0vw==",
+  "dgSpecHash": "iMi2W8sAWRaXBV6EoMS9KjXN2rIfUwrZz6xf8lCspQMWHrZuUA51kAwJAfli3hQUq0AzqE7FESVgxEx+VHJgcg==",
   "success": true,
-  "projectFilePath": "E:\\documents\\exam\\code\\TestTasks\\Tracking\\Tracking\\Tracking.csproj",
+  "projectFilePath": "e:\\documents\\exam\\code\\TestTasks\\Tracking\\Tracking\\Tracking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gooin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\gooin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

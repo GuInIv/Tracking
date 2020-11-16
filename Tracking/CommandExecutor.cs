@@ -49,17 +49,17 @@ namespace Tracking
             }
         }
 
-        public string IsCommandAdd(string firstString)
+        public bool IsCommandAdd(string firstString)
         {
             var match = GetRegexMatch(firstString);
             if (match.Success)
             {
                 var groups = match.Groups;
                 if (groups["commandName"].Value.ToLower() == "add")
-                    return groups["commandName"].Value;
+                    return true;
             }
 
-            return string.Empty;
+            return false;
         }
 
         private void ParseInputString()

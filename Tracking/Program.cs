@@ -15,9 +15,8 @@ namespace Tracking
                 string inputString = Console.ReadLine();
                 if (inputString == ":q")
                     break;
-                string command = commandExecutor.IsCommandAdd(inputString);
 
-                if (!string.IsNullOrWhiteSpace(command))
+                if (commandExecutor.IsCommandAdd(inputString))
                 {
                     while (inputString != ":q")
                     {
